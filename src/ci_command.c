@@ -1,7 +1,7 @@
 /**
  * @file ci_command.c
- * @brief Implementation of the communication protocol between the arduino and
- * the controlling computer.
+ * @brief Implementation of the communication protocol between a vehicle and the
+ * controlling device.
  *
  * @date 25 sept. 2014
  * @author carrier.nicolas0@gmail.com
